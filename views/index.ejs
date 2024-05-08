@@ -1,0 +1,271 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title><%= content.title %></title>
+    <style>
+        h1 {
+            font-size: 3rem;
+        }
+        h2 {
+            color: blue;
+            margin-left: 15px;
+            font-size: 2.5rem;
+            margin-bottom: 0;
+        }
+        p {
+            margin-left: 15px;
+            font-size: 1.5rem;
+        }
+        .language {
+            font-size: 2rem;
+        }
+        .language a {
+            text-decoration: none;
+            color: black;
+        }
+        .language a:hover {
+            color: blue !important;
+        }
+        .language a:active {
+            color: red !important;
+        }
+        .active {
+            color: blue !important;
+        }
+        span {
+            color:green;
+        }
+        .example_text {
+            margin-top: 0;
+            color: #736E69;
+        }
+        .example_request {
+            margin-top: 0;
+            margin-bottom:0;
+            font-size: 2rem;
+            font-weight: bold;
+            color: #736E69;
+        }
+        ol,li,ul {
+            font-size: 1.5rem;
+        }
+        li {
+            margin-bottom: 5px;
+        }
+        .request {
+            font-size: 1.5rem;
+            margin-left: 15px;
+            border: 2px solid #ddd;
+            border-radius: 5px;
+            padding: 5px;
+        }
+        .response {
+            border: 2px solid #ddd;
+            border-radius: 5px;
+            margin-left: 15px;
+        }
+        footer {
+            margin: 15px 0 15px 15px;
+            font-size: 1.5rem;
+            border-top: 2px solid #ddd;
+        }
+    </style>
+</head>
+<body>
+    <h1><%= content.header %></h1>
+    <p class="language"><%= content.languagetype %> 
+        <a href="/language/en" <%if(content.language === "en") {%>class="active"<%}%>>EN</a>
+        <a href="/language/lt"<%if(content.language === "lt") {%>class="active"<%}%>>LT</a>
+    </p>
+    <p><%= content.text1 %></p>
+    <h2><%= content.text2 %></h2>
+    <p class="example_text"><%= content.text3 %></p>
+    <p class="example_request"><%= content.text4 %></p>
+    <ol>
+        <li>id – Kauno „Žalgiris“</li>
+        <li>id – Vilniaus „Rytas“</li>
+        <li>id – Vilniaus „Wolves Twinsbet“</li>
+        <li>id – Utenos „Uniclub Casino – Juventus“</li>
+        <li>id – Panevėžio „7bet – Lietkabelis“</li>
+        <li>id – Klaipėdos „Neptūnas“</li>
+        <li>id – Mažeikių „M Basket – Delamode“</li>
+        <li>id – Jonavos „CBet“</li>
+        <li>id – Kėdainių „Nevėžis – Optibet“</li>
+        <li>id – Šiaulių „Šiauliai“</li>
+        <li>id – Pasvalio „Pieno  žvaigždės“</li>
+    </ol>
+    <p class="example_request"><%= content.request %></p>
+    <div class="request">
+        <code><span>GET</span> http://localhost:3000/team/1</code>
+    </div>
+    <p class="example_request"><%= content.response %></p>
+    <div class="response">
+        <pre><code>
+    {
+        "id": 1,
+        "teamName": "Kauno „Žalgiris“",
+        "starting": [
+            {
+                "name": "Keenan",
+                "lastname": "Evans",
+                "position": "Įžaidėjas",
+                "age": 27,
+                "height": "191 cm",
+                "weight": "86 kg",
+                "club": "Kauno „Žalgiris“"
+            },
+            {
+                "name": "Tomas",
+                "lastname": "Dimša",
+                "position": "Atakuojantis gynėjas",
+                "age": 30,
+                "height": "196 cm",
+                "weight": "90 kg",
+                "club": "Kauno „Žalgiris“"
+            },
+            {
+                "name": "Edgaras",
+                "lastname": "Ulanovas",
+                "position": "Lengvojo krašto puolėjas",
+                "age": 32,
+                "height": "199 cm",
+                "weight": "99 kg",
+                "club": "Kauno „Žalgiris“"
+            },
+            {
+                "name": "Rolands",
+                "lastname": "Šmits",
+                "position": "Sunkiojo krašto puolėjas",
+                "age": 28,
+                "height": "207 cm",
+                "weight": "107 kg",
+                "club": "Kauno „Žalgiris“"
+            },
+            {
+                "name": "Kevarrius",
+                "lastname": "Hayes",
+                "position": "Vidurio Puolėjas",
+                "age": 27,
+                "height": "206 cm",
+                "weight": "103 kg",
+                "club": "Kauno „Žalgiris“"
+            }
+        ],
+        "bench": [
+            {
+                "name": "Lukas",
+                "lastname": "Lekavičius",
+                "position": "Įžaidėjas",
+                "club": "Kauno „Žalgiris“"
+            },
+            {
+                "name": "Matas",
+                "lastname": "Vokietaitis",
+                "position": "Vidurio Puolėjas",
+                "club": "Kauno „Žalgiris“"
+            },
+            {
+                "name": "Dovydas",
+                "lastname": "Giedraitis",
+                "position": "Atakuojantis gynėjas",
+                "club": "Kauno „Žalgiris“"
+            },
+            {
+                "name": "Nedas",
+                "lastname": "Montvila",
+                "position": "Atakuojantis gynėjas",
+                "club": "Kauno „Žalgiris“"
+            },
+            {
+                "name": "Laurynas",
+                "lastname": "Birutis",
+                "position": "Vidurio Puolėjas",
+                "club": "Kauno „Žalgiris“"
+            },
+            {
+                "name": "Karolis",
+                "lastname": "Lukošiūnas",
+                "position": "Atakuojantis gynėjas",
+                "club": "Kauno „Žalgiris“"
+            },
+            {
+                "name": "Demetre",
+                "lastname": "Rivers",
+                "position": "Lengvojo krašto puolėjas",
+                "club": "Kauno „Žalgiris“"
+            },
+            {
+                "name": "Edmond",
+                "lastname": "Sumner",
+                "position": "Atakuojantis gynėjas",
+                "club": "Kauno „Žalgiris“"
+            },
+            {
+                "name": "Dovydas",
+                "lastname": "Butka",
+                "position": "Sunkiojo krašto puolėjas",
+                "club": "Kauno „Žalgiris“"
+            },
+            {
+                "name": "Danielius",
+                "lastname": "Lavrinovičius",
+                "position": "Sunkiojo krašto puolėjas",
+                "club": "Kauno „Žalgiris“"
+            },
+            {
+                "name": "Brady",
+                "lastname": "Manek",
+                "position": "Sunkiojo krašto puolėjas",
+                "club": "Kauno „Žalgiris“"
+            },
+            {
+                "name": "Arnas",
+                "lastname": "Butkevičius",
+                "position": "Lengvojo krašto puolėjas",
+                "club": "Kauno „Žalgiris“"
+            }
+        ],
+        "coach": [
+            {
+                "name": "Andrea",
+                "lastname": "Trinchieri",
+                "position": "Treneris",
+                "club": "Kauno „Žalgiris“"
+            }
+        ]
+    }
+        </code></pre>
+    </div>
+    <h2><%= content.text5 %></h2>
+    <p class="example_text"><%= content.text6 %></p>
+    <p class="example_request"><%= content.text7 %></p>
+    <ul>
+        <li><%= content.list1 %></li>
+        <li><%= content.list2 %></li>
+        <li><%= content.list3 %></li>
+    </ul>
+    <p class="example_request"><%= content.request %></p>
+    <div class="request">
+        <code><span>GET</span> http://localhost:3000/search?name=Margiris&lastname=Normantas&position=Atakuojantis gynėjas</code>
+    </div>
+    <p class="example_request"><%= content.response %></p>
+    <div class="response">
+        <pre><code>
+        [
+            {
+                "name": "Margiris",
+                "lastname": "Normantas",
+                "position": "Atakuojantis gynėjas",
+                "age": 27,
+                "height": "194 cm",
+                "weight": "94 kg",
+                "club": "Vilniaus „Rytas“"
+            }
+        ]
+        </code></pre>
+    </div>
+    <footer><%= content.footer %> © Antanas Jasiulionis <%= new Date().getFullYear() %></footer>
+</body>
+</html>

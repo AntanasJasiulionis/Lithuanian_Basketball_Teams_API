@@ -1,0 +1,40 @@
+[
+    {
+      "language": "en",
+      "title": "Lituanian Basketball Teams API",
+      "languagetype": "Language:",
+      "header": "Lituanian Basketball Teams API Documentation",
+      "text1": "Welcome to the Lithuanian Basketball Teams API by Antanas Jasiulionis. This API lists all Lithuanian basketball teams, players and coaches.",
+      "text2": "Get a Specific Team by ID",
+      "text3": "Returns a team with specified id.",
+      "text4": "List of team id's:",
+      "request": "Example request:",
+      "response": "Example response:",
+      "text5": "Search Players/Coaches",
+      "text6": "Returns a list of players filtered by name, lastname and position.",
+      "text7": "Query parameters:",
+      "list1": "(Optional) Name – The name of the player.",
+      "list2": "(Optional) Lastname – The lastname of the player.",
+      "list3": "(Optional) Position – The role he's in with the team. Roles (`Įžaidėjas`, `Atakuojantis Gynėjas`, `Lengvojo krašto puolėjas`, `Sunkiojo krašto puolėjas`, `Vidurio puolėjas`)",
+      "footer": "Copyright"
+    },
+    {
+      "language": "lt",
+      "title": "Lietuvos Krepšinio Rinktinės API",
+      "languagetype": "Kalba:",
+      "header": "Lietuvos Krepšinio Rinktinės API Dokumentacija",
+      "text1": "Sveiki atvykę į Antano Jasiulionio Lietuvos Krepšinio Rinktinės API. Šiame API yra surašytos visos Lietuvos krepšinio komandos, žaidėjai bei treneriai.",
+      "text2": "Gauti konkrečią komandą pagal jos ID",
+      "text3": "Grąžina komandą su nurodytu id.",
+      "text4": "Sąrašas komandų su jų id.",
+      "request": "Užklausos pavyzdys:",
+      "response": "Atsakymo pavyzdys:",
+      "text5": "Ieškoti Žaidėjų/Trenerių",
+      "text6": "Grąžina sąrašą žaidėjų filtruotų pagal vardą, pavardę ir poziciją.",
+      "text7": "Užklausos parametrai:",
+      "list1": "(Pasirinktinai) Vardas – žaidėjo vardas.",
+      "list2": "(Pasirinktinai) Pavardė – žaidėjo pavardė.",
+      "list3": "(Pasirinktinai) Pozicija – Jo vaidmuo komandoje. Vaidmuo (`Įžaidėjas`, `Atakuojantis Gynėjas`, `Lengvojo krašto puolėjas`, `Sunkiojo krašto puolėjas`, `Vidurio puolėjas`)",
+      "footer": "Autorių teisės"
+    }
+  ]

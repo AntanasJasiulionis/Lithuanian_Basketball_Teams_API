@@ -1,0 +1,1243 @@
+[
+    {
+        "id": 1,
+        "teamName": "Kauno „Žalgiris“",
+        "starting": [
+            {
+                "name": "Keenan",
+                "lastname": "Evans",
+                "position": "Įžaidėjas",
+                "age": 27,
+                "height": "191 cm",
+                "weight": "86 kg",
+                "club": "Kauno „Žalgiris“"
+            },
+            {
+                "name": "Tomas",
+                "lastname": "Dimša",
+                "position": "Atakuojantis gynėjas",
+                "age": 30,
+                "height": "196 cm",
+                "weight": "90 kg",
+                "club": "Kauno „Žalgiris“"
+            },
+            {
+                "name": "Edgaras",
+                "lastname": "Ulanovas",
+                "position": "Lengvojo krašto puolėjas",
+                "age": 32,
+                "height": "199 cm",
+                "weight": "99 kg",
+                "club": "Kauno „Žalgiris“"
+            },
+            {
+                "name": "Rolands",
+                "lastname": "Šmits",
+                "position": "Sunkiojo krašto puolėjas",
+                "age": 28,
+                "height": "207 cm",
+                "weight": "107 kg",
+                "club": "Kauno „Žalgiris“"
+            },
+            {
+                "name": "Kevarrius",
+                "lastname": "Hayes",
+                "position": "Vidurio Puolėjas",
+                "age": 27,
+                "height": "206 cm",
+                "weight": "103 kg",
+                "club": "Kauno „Žalgiris“"
+            }
+        ],
+        "bench": [
+            {
+                "name": "Lukas",
+                "lastname": "Lekavičius",
+                "position": "Įžaidėjas",
+                "club": "Kauno „Žalgiris“"
+            },
+            {
+                "name": "Matas",
+                "lastname": "Vokietaitis",
+                "position": "Vidurio Puolėjas",
+                "club": "Kauno „Žalgiris“"
+            },
+            {
+                "name": "Dovydas",
+                "lastname": "Giedraitis",
+                "position": "Atakuojantis gynėjas",
+                "club": "Kauno „Žalgiris“"
+            },
+            {
+                "name": "Nedas",
+                "lastname": "Montvila",
+                "position": "Atakuojantis gynėjas",
+                "club": "Kauno „Žalgiris“"
+            },
+            {
+                "name": "Laurynas",
+                "lastname": "Birutis",
+                "position": "Vidurio Puolėjas",
+                "club": "Kauno „Žalgiris“"
+            },
+            {
+                "name": "Karolis",
+                "lastname": "Lukošiūnas",
+                "position": "Atakuojantis gynėjas",
+                "club": "Kauno „Žalgiris“"
+            },
+            {
+                "name": "Demetre",
+                "lastname": "Rivers",
+                "position": "Lengvojo krašto puolėjas",
+                "club": "Kauno „Žalgiris“"
+            },
+            {
+                "name": "Edmond",
+                "lastname": "Sumner",
+                "position": "Atakuojantis gynėjas",
+                "club": "Kauno „Žalgiris“"
+            },
+            {
+                "name": "Dovydas",
+                "lastname": "Butka",
+                "position": "Sunkiojo krašto puolėjas",
+                "club": "Kauno „Žalgiris“"
+            },
+            {
+                "name": "Danielius",
+                "lastname": "Lavrinovičius",
+                "position": "Sunkiojo krašto puolėjas",
+                "club": "Kauno „Žalgiris“"
+            },
+            {
+                "name": "Brady",
+                "lastname": "Manek",
+                "position": "Sunkiojo krašto puolėjas",
+                "club": "Kauno „Žalgiris“"
+            },
+            {
+                "name": "Arnas",
+                "lastname": "Butkevičius",
+                "position": "Lengvojo krašto puolėjas",
+                "club": "Kauno „Žalgiris“"
+            }
+        ],
+        "coach": [
+            {
+                "name": "Andrea",
+                "lastname": "Trinchieri",
+                "position": "Treneris",
+                "club": "Kauno „Žalgiris“"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "teamName": "Vilniaus „Rytas“",
+        "starting": [
+            {
+                "name": "Marcus",
+                "lastname": "Foster",
+                "position": "Įžaidėjas",
+                "age": 28,
+                "height": "190 cm",
+                "weight": "93 kg",
+                "club": "Vilniaus „Rytas“"
+            },
+            {
+                "name": "Margiris",
+                "lastname": "Normantas",
+                "position": "Atakuojantis gynėjas",
+                "age": 27,
+                "height": "194 cm",
+                "weight": "94 kg",
+                "club": "Vilniaus „Rytas“"
+            },
+            {
+                "name": "Gytis",
+                "lastname": "Radzevičius",
+                "position": "Lengvojo krašto puolėjas",
+                "age": 28,
+                "height": "197 cm",
+                "weight": "92 kg",
+                "club": "Vilniaus „Rytas“"
+            },
+            {
+                "name": "Justin",
+                "lastname": "Gorham",
+                "position": "Sunkiojo krašto puolėjas",
+                "age": 25,
+                "height": "201 cm",
+                "weight": "102 kg",
+                "club": "Vilniaus „Rytas“"
+            },
+            {
+                "name": "Martynas",
+                "lastname": "Echodas",
+                "position": "Vidurio Puolėjas",
+                "age": 26,
+                "height": "206 cm",
+                "weight": "110 kg",
+                "club": "Vilniaus „Rytas“"
+            }
+        ],
+        "bench": [
+            {
+                "name": "Arnas",
+                "lastname": "Velička",
+                "position": "Įžaidėjas",
+                "club": "Vilniaus „Rytas“"
+            },
+            {
+                "name": "Modestas",
+                "lastname": "Babraitis",
+                "position": "Atakuojantis gynėjas",
+                "club": "Vilniaus „Rytas“"
+            },
+            {
+                "name": "Robert",
+                "lastname": "Cole",
+                "position": "Įžaidėjas",
+                "club": "Vilniaus „Rytas“"
+            },
+            {
+                "name": "Lukas",
+                "lastname": "Uleckas",
+                "position": "Lengvojo krašto puolėjas",
+                "club": "Vilniaus „Rytas“"
+            },
+            {
+                "name": "Javin",
+                "lastname": "DeLaurier",
+                "position": "Vidurio Puolėjas",
+                "club": "Vilniaus „Rytas“"
+            },
+            {
+                "name": "Ignas",
+                "lastname": "Urbonas",
+                "position": "Lengvojo krašto puolėjas",
+                "club": "Vilniaus „Rytas“"
+            },
+            {
+                "name": "Gytis",
+                "lastname": "Masiulis",
+                "position": "Sunkiojo krašto puolėjas",
+                "club": "Vilniaus „Rytas“"
+            },
+            {
+                "name": "Gantas",
+                "lastname": "Križauskas",
+                "position": "Įžaidėjas",
+                "club": "Vilniaus „Rytas“"
+            },
+            {
+                "name": "Oskaras",
+                "lastname": "Pleikys",
+                "position": "Sunkiojo krašto puolėjas",
+                "club": "Vilniaus „Rytas“"
+            }
+        ],
+        "coach": [
+            {
+                "name": "Giedrius",
+                "lastname": "Žybėnas",
+                "position": "Treneris",
+                "club": "Vilniaus „Rytas“"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "teamName": "Vilniaus „Wolves Twinsbet“",
+        "starting": [
+            {
+                "name": "Vaidas",
+                "lastname": "Kariniauskas",
+                "position": "Įžaidėjas",
+                "age": 30,
+                "height": "199 cm",
+                "weight": "95 kg",
+                "club": "Vilniaus „Wolves Twinsbet“"
+            },
+            {
+                "name": "Arnas",
+                "lastname": "Beručka",
+                "position": "Atakuojantis gynėjas",
+                "age": 27,
+                "height": "196 cm",
+                "weight": "91 kg",
+                "club": "Vilniaus „Wolves Twinsbet“"
+            },
+            {
+                "name": "Jeffrey",
+                "lastname": "Taylor",
+                "position": "Lengvojo krašto puolėjas",
+                "age": 34,
+                "height": "201 cm",
+                "weight": "98 kg",
+                "club": "Vilniaus „Wolves Twinsbet“"
+            },
+            {
+                "name": "Garrison",
+                "lastname": "Brooks",
+                "position": "Sunkiojo krašto puolėjas",
+                "age": 24,
+                "height": "208 cm",
+                "weight": "109 kg",
+                "club": "Vilniaus „Wolves Twinsbet“"
+            },
+            {
+                "name": "Regimantas",
+                "lastname": "Miniotas",
+                "position": "Vidurio Puolėjas",
+                "age": 28,
+                "height": "208 cm",
+                "weight": "104 kg",
+                "club": "Vilniaus „Wolves Twinsbet“"
+            }
+        ],
+        "bench": [
+            {
+                "name": "Rasheed",
+                "lastname": "Sulaimon",
+                "position": "Atakuojantis gynėjas",
+                "club": "Vilniaus „Wolves Twinsbet“"
+            },
+            {
+                "name": "Christian",
+                "lastname": "Mekowulu",
+                "position": "Sunkiojo krašto puolėjas",
+                "club": "Vilniaus „Wolves Twinsbet“"
+            },
+            {
+                "name": "Eigirdas",
+                "lastname": "Žukauskas",
+                "position": "Sunkiojo krašto puolėjas",
+                "club": "Vilniaus „Wolves Twinsbet“"
+            },
+            {
+                "name": "Kristupas",
+                "lastname": "Žemaitis",
+                "position": "Įžaidėjas",
+                "club": "Vilniaus „Wolves Twinsbet“"
+            },
+            {
+                "name": "Tre`shawn",
+                "lastname": "Thurman",
+                "position": "Lengvojo krašto puolėjas",
+                "club": "Vilniaus „Wolves Twinsbet“"
+            },
+            {
+                "name": "Vitalijus",
+                "lastname": "Kozys",
+                "position": "Lengvojo krašto puolėjas",
+                "club": "Vilniaus „Wolves Twinsbet“"
+            },
+            {
+                "name": "Artūrs",
+                "lastname": "Žagars",
+                "position": "Įžaidėjas",
+                "club": "Vilniaus „Wolves Twinsbet“"
+            }
+        ],
+        "coach": [
+            {
+                "name": "Nedas",
+                "lastname": "Pacevičius",
+                "position": "Treneris",
+                "club": "Vilniaus „Wolves Twinsbet“"
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "teamName": "Utenos „Uniclub Casino – Juventus“",
+        "starting": [
+            {
+                "name": "Marius",
+                "lastname": "Valinskas",
+                "position": "Įžaidėjas",
+                "age": 25,
+                "height": "187 cm",
+                "weight": "81 kg",
+                "club": "Utenos „Uniclub Casino – Juventus“"
+            },
+            {
+                "name": "Evaldas",
+                "lastname": "Šaulys",
+                "position": "Atakuojantis gynėjas",
+                "age": 31,
+                "height": "191 cm",
+                "weight": "87 kg",
+                "club": "Utenos „Uniclub Casino – Juventus“"
+            },
+            {
+                "name": "Dayshon",
+                "lastname": "Smith",
+                "position": "Lengvojo krašto puolėjas",
+                "age": 29,
+                "height": "191 cm",
+                "weight": "89 kg",
+                "club": "Utenos „Uniclub Casino – Juventus“"
+            },
+            {
+                "name": "Žygimantas",
+                "lastname": "Skučas",
+                "position": "Sunkiojo krašto puolėjas",
+                "age": 32,
+                "height": "202 cm",
+                "weight": "102 kg",
+                "club": "Utenos „Uniclub Casino – Juventus“"
+            },
+            {
+                "name": "Šarūnas",
+                "lastname": "Beniušis",
+                "position": "Vidurio Puolėjas",
+                "age": 31,
+                "height": "206 cm",
+                "weight": "108 kg",
+                "club": "Utenos „Uniclub Casino – Juventus“"
+            }
+        ],
+        "bench": [
+            {
+                "name": "Ryan",
+                "lastname": "Taylor",
+                "position": "Lengvojo krašto puolėjas",
+                "club": "Utenos „Uniclub Casino – Juventus“"
+            },
+            {
+                "name": "Tahjon",
+                "lastname": "Starks",
+                "position": "Įžaidėjas",
+                "club": "Utenos „Uniclub Casino – Juventus“"
+            },
+            {
+                "name": "Ajdin",
+                "lastname": "Penava",
+                "position": "Sunkiojo krašto puolėjas",
+                "club": "Utenos „Uniclub Casino – Juventus“"
+            },
+            {
+                "name": "Ivan",
+                "lastname": "Vraneš",
+                "position": "Vidurio Puolėjas",
+                "club": "Utenos „Uniclub Casino – Juventus“"
+            },
+            {
+                "name": "Jonas",
+                "lastname": "Zakas",
+                "position": "Atakuojantis gynėjas",
+                "club": "Utenos „Uniclub Casino – Juventus“"
+            },
+            {
+                "name": "Redas",
+                "lastname": "Šukšta",
+                "position": "Vidurio Puolėjas",
+                "club": "Utenos „Uniclub Casino – Juventus“"
+            },
+            {
+                "name": "Zachary",
+                "lastname": "Simmons",
+                "position": "Lengvojo krašto puolėjas",
+                "club": "Utenos „Uniclub Casino – Juventus“"
+            },
+            {
+                "name": "Ernestas",
+                "lastname": "Sederevičius",
+                "position": "Vidurio Puolėjas",
+                "club": "Utenos „Uniclub Casino – Juventus“"
+            },
+            {
+                "name": "Titas",
+                "lastname": "Didžgalvis",
+                "position": "Įžaidėjas",
+                "club": "Utenos „Uniclub Casino – Juventus“"
+            }
+        ],
+        "coach": [
+            {
+                "name": "Oliver",
+                "lastname": "Kostič",
+                "position": "Treneris",
+                "club": "Utenos „Uniclub Casino – Juventus“"
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "teamName": "Panevėžio „7bet – Lietkabelis“",
+        "starting": [
+            {
+                "name": "Diante",
+                "lastname": "Baldwin",
+                "position": "Įžaidėjas",
+                "age": 29,
+                "height": "183 cm",
+                "weight": "82 kg",
+                "club": "Panevėžio „7bet – Lietkabelis“"
+            },
+            {
+                "name": "Liutauras",
+                "lastname": "Lelevičius",
+                "position": "Atakuojantis gynėjas",
+                "age": 20,
+                "height": "201 cm",
+                "weight": "90 kg",
+                "club": "Panevėžio „7bet – Lietkabelis“"
+            },
+            {
+                "name": "Deividas",
+                "lastname": "Sirvydis",
+                "position": "Lengvojo krašto puolėjas",
+                "age": 23,
+                "height": "204 cm",
+                "weight": "94 kg",
+                "club": "Panevėžio „7bet – Lietkabelis“"
+            },
+            {
+                "name": "Gediminas",
+                "lastname": "Orelik",
+                "position": "Sunkiojo krašto puolėjas",
+                "age": 33,
+                "height": "200 cm",
+                "weight": "105 kg",
+                "club": "Panevėžio „7bet – Lietkabelis“"
+            },
+            {
+                "name": "Darde",
+                "lastname": "Gagič",
+                "position": "Vidurio Puolėjas",
+                "age": 33,
+                "height": "211 cm",
+                "weight": "125 kg",
+                "club": "Panevėžio „7bet – Lietkabelis“"
+            }
+        ],
+        "bench": [
+            {
+                "name": "Dovis",
+                "lastname": "Bičkauskis",
+                "position": "Įžaidėjas",
+                "club": "Panevėžio „7bet – Lietkabelis“"
+            },
+            {
+                "name": "Nikas",
+                "lastname": "Stuknys",
+                "position": "Lengvojo krašto puolėjas",
+                "club": "Panevėžio „7bet – Lietkabelis“"
+            },
+            {
+                "name": "Vytenis",
+                "lastname": "Lipkevičius",
+                "position": "Lengvojo krašto puolėjas",
+                "club": "Panevėžio „7bet – Lietkabelis“"
+            },
+            {
+                "name": "Džiugas",
+                "lastname": "Slavinskas",
+                "position": "Sunkiojo krašto puolėjas",
+                "club": "Panevėžio „7bet – Lietkabelis“"
+            },
+            {
+                "name": "Gabrielius",
+                "lastname": "Maldūnas",
+                "position": "Vidurio Puolėjas",
+                "club": "Panevėžio „7bet – Lietkabelis“"
+            },
+            {
+                "name": "Martynas",
+                "lastname": "Varnas",
+                "position": "Atakuojantis gynėjas",
+                "club": "Panevėžio „7bet – Lietkabelis“"
+            },
+            {
+                "name": "Nikola",
+                "lastname": "Popovic",
+                "position": "Vidurio Puolėjas",
+                "club": "Panevėžio „7bet – Lietkabelis“"
+            }
+        ],
+        "coach": [
+            {
+                "name": "Nenad",
+                "lastname": "Čanak",
+                "position": "Treneris",
+                "club": "Panevėžio „7bet – Lietkabelis“"
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "teamName": "Klaipėdos „Neptūnas“",
+        "starting": [
+            {
+                "name": "Žygimantas",
+                "lastname": "Janavičius",
+                "position": "Įžaidėjas",
+                "age": 35,
+                "height": "192 cm",
+                "weight": "89 kg",
+                "club": "Klaipėdos „Neptūnas“"
+            },
+            {
+                "name": "Mindaugas",
+                "lastname": "Girdžiūnas",
+                "position": "Atakuojantis gynėjas",
+                "age": 35,
+                "height": "188 cm",
+                "weight": "86 kg",
+                "club": "Klaipėdos „Neptūnas“"
+            },
+            {
+                "name": "Deividas",
+                "lastname": "Gailius",
+                "position": "Lengvojo krašto puolėjas",
+                "age": 36,
+                "height": "200 cm",
+                "weight": "100 kg",
+                "club": "Klaipėdos „Neptūnas“"
+            },
+            {
+                "name": "Ąžuolas",
+                "lastname": "Tubelis",
+                "position": "Sunkiojo krašto puolėjas",
+                "age": 22,
+                "height": "208 cm",
+                "weight": "108 kg",
+                "club": "Klaipėdos „Neptūnas“"
+            },
+            {
+                "name": "Thomas",
+                "lastname": "Rutherford",
+                "position": "Vidurio Puolėjas",
+                "age": 27,
+                "height": "204 cm",
+                "weight": "116 kg",
+                "club": "Klaipėdos „Neptūnas“"
+            }
+        ],
+        "bench": [
+            {
+                "name": "Zsombor",
+                "lastname": "Maronka",
+                "position": "Lengvojo krašto puolėjas",
+                "club": "Klaipėdos „Neptūnas“"
+            },
+            {
+                "name": "Joshua",
+                "lastname": "Newkirk",
+                "position": "Įžaidėjas",
+                "club": "Klaipėdos „Neptūnas“"
+            },
+            {
+                "name": "Matas",
+                "lastname": "Vaitkus",
+                "position": "Įžaidėjas",
+                "club": "Klaipėdos „Neptūnas“"
+            },
+            {
+                "name": "Tim",
+                "lastname": "Lambrecht",
+                "position": "Sunkiojo krašto puolėjas",
+                "club": "Klaipėdos „Neptūnas“"
+            },
+            {
+                "name": "Martynas",
+                "lastname": "Pacevičius",
+                "position": "Vidurio Puolėjas",
+                "club": "Klaipėdos „Neptūnas“"
+            },
+            {
+                "name": "Matas",
+                "lastname": "Repšys",
+                "position": "Lengvojo krašto puolėjas",
+                "club": "Klaipėdos „Neptūnas“"
+            },
+            {
+                "name": "Rytis",
+                "lastname": "Šakaitis",
+                "position": "Įžaidėjas",
+                "club": "Klaipėdos „Neptūnas“"
+            },
+            {
+                "name": "Georgios",
+                "lastname": "Kamperidis",
+                "position": "Atakuojantis gynėjas",
+                "club": "Klaipėdos „Neptūnas“"
+            },
+            {
+                "name": "Ignas",
+                "lastname": "Sargiūnas",
+                "position": "Atakuojantis gynėjas",
+                "club": "Klaipėdos „Neptūnas“"
+            },
+            {
+                "name": "Kristupas",
+                "lastname": "Leščiauskas",
+                "position": "Įžaidėjas",
+                "club": "Klaipėdos „Neptūnas“"
+            }
+        ],
+        "coach": [
+            {
+                "name": "Georgios",
+                "lastname": "Vovoras",
+                "position": "Treneris",
+                "club": "Klaipėdos „Neptūnas“"
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "teamName": "Mažeikių „M Basket – Delamode“",
+        "starting": [
+            {
+                "name": "Chauncey",
+                "lastname": "Collins",
+                "position": "Įžaidėjas",
+                "age": 29,
+                "height": "185 cm",
+                "weight": "85 kg",
+                "club": "Mažeikių „M Basket – Delamode“"
+            },
+            {
+                "name": "Martynas",
+                "lastname": "Paliukėnas",
+                "position": "Atakuojantis gynėjas",
+                "age": 30,
+                "height": "195 cm",
+                "weight": "94 kg",
+                "club": "Mažeikių „M Basket – Delamode“"
+            },
+            {
+                "name": "Kay",
+                "lastname": "Bruhnke",
+                "position": "Lengvojo krašto puolėjas",
+                "age": 22,
+                "height": "204 cm",
+                "weight": "104 kg",
+                "club": "Mažeikių „M Basket – Delamode“"
+            },
+            {
+                "name": "Einaras",
+                "lastname": "Tubutis",
+                "position": "Sunkiojo krašto puolėjas",
+                "age": 25,
+                "height": "208 cm",
+                "weight": "102 kg",
+                "club": "Mažeikių „M Basket – Delamode“"
+            },
+            {
+                "name": "Giedrius",
+                "lastname": "Staniulis",
+                "position": "Vidurio Puolėjas",
+                "age": 33,
+                "height": "206 cm",
+                "weight": "110 kg",
+                "club": "Mažeikių „M Basket – Delamode“"
+            }
+        ],
+        "bench": [
+            {
+                "name": "Kamau",
+                "lastname": "Stokes",
+                "position": "Įžaidėjas",
+                "club": "Mažeikių „M Basket – Delamode“"
+            },
+            {
+                "name": "Henri",
+                "lastname": "Kantonen",
+                "position": "Atakuojantis gynėjas",
+                "club": "Mažeikių „M Basket – Delamode“"
+            },
+            {
+                "name": "Jokūbas",
+                "lastname": "Rubinas",
+                "position": "Įžaidėjas",
+                "club": "Mažeikių „M Basket – Delamode“"
+            },
+            {
+                "name": "Mindaugas",
+                "lastname": "Motuzas",
+                "position": "Sunkiojo krašto puolėjas",
+                "club": "Mažeikių „M Basket – Delamode“"
+            },
+            {
+                "name": "Martynas",
+                "lastname": "Gecevičius",
+                "position": "Atakuojantis gynėjas",
+                "club": "Mažeikių „M Basket – Delamode“"
+            },
+            {
+                "name": "Tadas",
+                "lastname": "Pocevičius",
+                "position": "Įžaidėjas",
+                "club": "Mažeikių „M Basket – Delamode“"
+            },
+            {
+                "name": "Daniel",
+                "lastname": "Dolenc",
+                "position": "Vidurio Puolėjas",
+                "club": "Mažeikių „M Basket – Delamode“"
+            },
+            {
+                "name": "Žygimantas",
+                "lastname": "Bartašius",
+                "position": "Vidurio Puolėjas",
+                "club": "Mažeikių „M Basket – Delamode“"
+            },
+            {
+                "name": "Alex",
+                "lastname": "Antetokounmpo",
+                "position": "Lengvojo krašto puolėjas",
+                "club": "Mažeikių „M Basket – Delamode“"
+            },
+            {
+                "name": "Elvinas",
+                "lastname": "Nabažas",
+                "position": "Lengvojo krašto puolėjas",
+                "club": "Mažeikių „M Basket – Delamode“"
+            },
+            {
+                "name": "Laurynas",
+                "lastname": "Andrijauskas",
+                "position": "Įžaidėjas",
+                "club": "Mažeikių „M Basket – Delamode“"
+            }
+        ],
+        "coach": [
+            {
+                "name": "Nikola",
+                "lastname": "Vasilev",
+                "position": "Treneris",
+                "club": "Mažeikių „M Basket – Delamode“"
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "teamName": "Jonavos „CBet“",
+        "starting": [
+            {
+                "name": "Ryan",
+                "lastname": "Larson",
+                "position": "Įžaidėjas",
+                "age": 23,
+                "height": "185 cm",
+                "weight": "82 kg",
+                "club": "Jonavos „CBet“"
+            },
+            {
+                "name": "Edvinas",
+                "lastname": "Šeškus",
+                "position": "Atakuojantis gynėjas",
+                "age": 29,
+                "height": "194 cm",
+                "weight": "97 kg",
+                "club": "Jonavos „CBet“"
+            },
+            {
+                "name": "Justas",
+                "lastname": "Furmanavičius",
+                "position": "Lengvojo krašto puolėjas",
+                "age": 29,
+                "height": "199 cm",
+                "weight": "92 kg",
+                "club": "Jonavos „CBet“"
+            },
+            {
+                "name": "Gabrielius",
+                "lastname": "Mažeika",
+                "position": "Sunkiojo krašto puolėjas",
+                "age": 21,
+                "height": "207 cm",
+                "weight": "105 kg",
+                "club": "Jonavos „CBet“"
+            },
+            {
+                "name": "Ivan",
+                "lastname": "Marinkovič",
+                "position": "Vidurio Puolėjas",
+                "age": 30,
+                "height": "210 cm",
+                "weight": "107 kg",
+                "club": "Jonavos „CBet“"
+            }
+        ],
+        "bench": [
+            {
+                "name": "Diante",
+                "lastname": "Garrett",
+                "position": "Įžaidėjas",
+                "club": "Jonavos „CBet“"
+            },
+            {
+                "name": "Nedas",
+                "lastname": "Rauluševičius",
+                "position": "Lengvojo krašto puolėjas",
+                "club": "Jonavos „CBet“"
+            },
+            {
+                "name": "Strahinja",
+                "lastname": "Micovic",
+                "position": "Sunkiojo krašto puolėjas",
+                "club": "Jonavos „CBet“"
+            },
+            {
+                "name": "Lukas",
+                "lastname": "Kreišmontas",
+                "position": "Atakuojantis gynėjas",
+                "club": "Jonavos „CBet“"
+            },
+            {
+                "name": "Tomas",
+                "lastname": "Stankevičius",
+                "position": "Atakuojantis gynėjas",
+                "club": "Jonavos „CBet“"
+            },
+            {
+                "name": "Tauras",
+                "lastname": "Jogėla",
+                "position": "Lengvojo krašto puolėjas",
+                "club": "Jonavos „CBet“"
+            },
+            {
+                "name": "Ousmane",
+                "lastname": "Drame",
+                "position": "Sunkiojo krašto puolėjas",
+                "club": "Jonavos „CBet“"
+            }
+        ],
+        "coach": [
+            {
+                "name": "Virginijus",
+                "lastname": "Šeškus",
+                "position": "Treneris",
+                "club": "Jonavos „CBet“"
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "teamName": "Kėdainių „Nevėžis – Optibet“",
+        "starting": [
+            {
+                "name": "Amit",
+                "lastname": "Ebo",
+                "position": "Įžaidėjas",
+                "age": 24,
+                "height": "180 cm",
+                "weight": "80 kg",
+                "club": "Kėdainių „Nevėžis – Optibet“"
+            },
+            {
+                "name": "Sean",
+                "lastname": "McNeil",
+                "position": "Atakuojantis gynėjas",
+                "age": 25,
+                "height": "190 cm",
+                "weight": "95 kg",
+                "club": "Kėdainių „Nevėžis – Optibet“"
+            },
+            {
+                "name": "Justinas",
+                "lastname": "Marcinkevičius",
+                "position": "Lengvojo krašto puolėjas",
+                "age": 26,
+                "height": "202 cm",
+                "weight": "85 kg",
+                "club": "Kėdainių „Nevėžis – Optibet“"
+            },
+            {
+                "name": "Zane",
+                "lastname": "Waterman",
+                "position": "Sunkiojo krašto puolėjas",
+                "age": 28,
+                "height": "203 cm",
+                "weight": "100 kg",
+                "club": "Kėdainių „Nevėžis – Optibet“"
+            },
+            {
+                "name": "Francis",
+                "lastname": "Okoro",
+                "position": "Vidurio Puolėjas",
+                "age": 24,
+                "height": "206 cm",
+                "weight": "104 kg",
+                "club": "Kėdainių „Nevėžis – Optibet“"
+            }
+        ],
+        "bench": [
+            {
+                "name": "Courtney",
+                "lastname": "Ramey",
+                "position": "Įžaidėjas",
+                "club": "Kėdainių „Nevėžis – Optibet“"
+            },
+            {
+                "name": "Carlos",
+                "lastname": "Jurgens",
+                "position": "Atakuojantis gynėjas",
+                "club": "Kėdainių „Nevėžis – Optibet“"
+            },
+            {
+                "name": "Ignas",
+                "lastname": "Vaitkus",
+                "position": "Lengvojo krašto puolėjas",
+                "club": "Kėdainių „Nevėžis – Optibet“"
+            },
+            {
+                "name": "Matas",
+                "lastname": "Razbadauskas",
+                "position": "Lengvojo krašto puolėjas",
+                "club": "Kėdainių „Nevėžis – Optibet“"
+            },
+            {
+                "name": "Dominykas",
+                "lastname": "Grenda",
+                "position": "Įžaidėjas",
+                "club": "Kėdainių „Nevėžis – Optibet“"
+            },
+            {
+                "name": "Matas",
+                "lastname": "Mačijauskas",
+                "position": "Vidurio Puolėjas",
+                "club": "Kėdainių „Nevėžis – Optibet“"
+            },
+            {
+                "name": "Robertas",
+                "lastname": "Keliačius",
+                "position": "Sunkiojo krašto puolėjas",
+                "club": "Kėdainių „Nevėžis – Optibet“"
+            },
+            {
+                "name": "Dominykas",
+                "lastname": "Stenionis",
+                "position": "Įžaidėjas",
+                "club": "Kėdainių „Nevėžis – Optibet“"
+            }
+        ],
+        "coach": [
+            {
+                "name": "Gediminas",
+                "lastname": "Petrauskas",
+                "position": "Treneris",
+                "club": "Kėdainių „Nevėžis – Optibet“"
+            }
+        ]
+    },
+    {
+        "id": 10,
+        "teamName": "Šiaulių „Šiauliai“",
+        "starting": [
+            {
+                "name": "Leonard",
+                "lastname": "Thorpe",
+                "position": "Įžaidėjas",
+                "age": 24,
+                "height": "196 cm",
+                "weight": "90 kg",
+                "club": "Šiaulių „Šiauliai“"
+            },
+            {
+                "name": "Daniel",
+                "lastname": "Baslyk",
+                "position": "Atakuojantis gynėjas",
+                "age": 23,
+                "height": "198 cm",
+                "weight": "90 kg",
+                "club": "Šiaulių „Šiauliai“"
+            },
+            {
+                "name": "Shaquille",
+                "lastname": "Keith",
+                "position": "Lengvojo krašto puolėjas",
+                "age": 30,
+                "height": "198 cm",
+                "weight": "118 kg",
+                "club": "Šiaulių „Šiauliai“"
+            },
+            {
+                "name": "Bennett",
+                "lastname": "Vander Plas",
+                "position": "Sunkiojo krašto puolėjas",
+                "age": 25,
+                "height": "203 cm",
+                "weight": "107 kg",
+                "club": "Šiaulių „Šiauliai“"
+            },
+            {
+                "name": "Tomaš",
+                "lastname": "Pavelka",
+                "position": "Vidurio Puolėjas",
+                "age": 23,
+                "height": "216 cm",
+                "weight": "108 kg",
+                "club": "Šiaulių „Šiauliai“"
+            }
+        ],
+        "bench": [
+            {
+                "name": "Sean",
+                "lastname": "Armand",
+                "position": "Atakuojantis gynėjas",
+                "club": "Šiaulių „Šiauliai“"
+            },
+            {
+                "name": "Karolis",
+                "lastname": "Giedraitis",
+                "position": "Atakuojantis gynėjas",
+                "club": "Šiaulių „Šiauliai“"
+            },
+            {
+                "name": "Eimantas",
+                "lastname": "Stankevičius",
+                "position": "Atakuojantis gynėjas",
+                "club": "Šiaulių  „Šiauliai“"
+            },
+            {
+                "name": "Rokas",
+                "lastname": "Norutis",
+                "position": "Lengvojo krašto puolėjas",
+                "club": "Šiaulių „Šiauliai“"
+            },
+            {
+                "name": "Dovydas",
+                "lastname": "Romančenko",
+                "position": "Sunkiojo krašto puolėjas",
+                "club": "Šiaulių „Šiauliai“"
+            },
+            {
+                "name": "Nojus",
+                "lastname": "Mineikis",
+                "position": "Atakuojantis gynėjas",
+                "club": "Šiaulių „Šiauliai“"
+            },
+            {
+                "name": "Deividas",
+                "lastname": "Žukauskas",
+                "position": "Įžaidėjas",
+                "club": "Šiaulių „Šiauliai“"
+            },
+            {
+                "name": "Paulius",
+                "lastname": "Danusevičius",
+                "position": "Sunkiojo krašto puolėjas",
+                "club": "Šiaulių „Šiauliai“"
+            }
+        ],
+        "coach": [
+            {
+                "name": "Žydrūnas",
+                "lastname": "Urbonas",
+                "position": "Treneris",
+                "club": "Šiaulių „Šiauliai“"
+            }
+        ]
+    },
+    {
+        "id": 11,
+        "teamName": "Pasvalio „Pieno  žvaigždės“",
+        "starting": [
+            {
+                "name": "Jordan",
+                "lastname": "Watson",
+                "position": "Įžaidėjas",
+                "age": 28,
+                "height": "189 cm",
+                "weight": "84 kg",
+                "club": "Pasvalio „Pieno žvaigždės“"
+            },
+            {
+                "name": "Martynas",
+                "lastname": "Arlauskas",
+                "position": "Atakuojantis gynėjas",
+                "age": 23,
+                "height": "201 cm",
+                "weight": "93 kg",
+                "club": "Pasvalio „Pieno žvaigždės“"
+            },
+            {
+                "name": "Simas",
+                "lastname": "Jarumbauskas",
+                "position": "Lengvojo krašto puolėjas",
+                "age": 23,
+                "height": "198 cm",
+                "weight": "108 kg",
+                "club": "Pasvalio „Pieno žvaigždės“"
+            },
+            {
+                "name": "Tomas",
+                "lastname": "Lekūnas",
+                "position": "Sunkiojo krašto puolėjas",
+                "age": 31,
+                "height": "197 cm",
+                "weight": "105 kg",
+                "club": "Pasvalio „Pieno žvaigždės“"
+            },
+            {
+                "name": "Kadeem",
+                "lastname": "Jack",
+                "position": "Vidurio Puolėjas",
+                "age": 31,
+                "height": "206 cm",
+                "weight": "107 kg",
+                "club": "Pasvalio „Pieno žvaigždės“"
+            }
+        ],
+        "bench": [
+            {
+                "name": "Daryl",
+                "lastname": "Doualla",
+                "position": "Atakuojantis gynėjas",
+                "club": "Pasvalio „Pieno žvaigždės“"
+            },
+            {
+                "name": "Adomas",
+                "lastname": "Sidarevičius",
+                "position": "Įžaidėjas",
+                "club": "Pasvalio „Pieno žvaigždės“"
+            },
+            {
+                "name": "Nojus",
+                "lastname": "Petraitis",
+                "position": "Įžaidėjas",
+                "club": "Pasvalio „Pieno žvaigždės“"
+            },
+            {
+                "name": "Adas",
+                "lastname": "Šimonis",
+                "position": "Atakuojantis gynėjas",
+                "club": "Pasvalio „Pieno žvaigždės“"
+            },
+            {
+                "name": "Lukas",
+                "lastname": "Valantinas",
+                "position": "Vidurio Puolėjas",
+                "club": "Pasvalio „Pieno žvaigždės“"
+            },
+            {
+                "name": "Artis",
+                "lastname": "Ate",
+                "position": "Atakuojantis gynėjas",
+                "club": "Pasvalio „Pieno žvaigždės“"
+            },
+            {
+                "name": "Deante",
+                "lastname": "Johnson",
+                "position": "Vidurio Puolėjas",
+                "club": "Pasvalio „Pieno žvaigždės“"
+            }
+        ],
+        "coach": [
+            {
+                "name": "Aurimas",
+                "lastname": "Jasilionis",
+                "position": "Treneris",
+                "club": "Pasvalio „Pieno žvaigždės“"
+            }
+        ]
+    }
+]
