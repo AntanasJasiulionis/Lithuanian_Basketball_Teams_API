@@ -77,6 +77,10 @@ app.get("/search", (req, res) => {
     res.json(playersData);
 });
 
+app.get("/all", (req, res) => {
+    res.json(teamsData);
+});
+
 app.listen(port, () => {
     console.log(`API is running on port ${port}`);
 });

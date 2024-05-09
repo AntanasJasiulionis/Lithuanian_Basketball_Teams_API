@@ -16,6 +16,8 @@
       "list1": "(Optional) Name – The name of the player.",
       "list2": "(Optional) Lastname – The lastname of the player.",
       "list3": "(Optional) Position – The role he's in with the team. Roles (`Įžaidėjas`, `Atakuojantis Gynėjas`, `Lengvojo krašto puolėjas`, `Sunkiojo krašto puolėjas`, `Vidurio puolėjas`)",
+      "text8": "Get List Of All Teams",
+      "text9": "Returns a list of all teams.",
       "footer": "Copyright"
     },
     {
@@ -35,6 +37,8 @@
       "list1": "(Pasirinktinai) Vardas – žaidėjo vardas.",
       "list2": "(Pasirinktinai) Pavardė – žaidėjo pavardė.",
       "list3": "(Pasirinktinai) Pozicija – Jo vaidmuo komandoje. Vaidmuo (`Įžaidėjas`, `Atakuojantis Gynėjas`, `Lengvojo krašto puolėjas`, `Sunkiojo krašto puolėjas`, `Vidurio puolėjas`)",
+      "text8": "Gauti Visų Komandų Sąrašą",
+      "text9": "Grąžins visų esančių komandų sąrašą.",
       "footer": "Autorių teisės"
     }
   ]
