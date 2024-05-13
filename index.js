@@ -56,21 +56,32 @@ app.get("/search", (req, res) => {
     playersData.push(coach);
     playersData = playersData.flat();
 
-    const position = req.query.position;
-    const name = req.query.name;
-    const lastname = req.query.lastname;
+    let position = req.query.position;
+    let name = req.query.name;
+    let lastname = req.query.lastname;
+    let firstLetter;
+    let restWord;
     //Search by name
     if(name){
+        firstLetter = name.slice(0,1).toUpperCase();
+        restWord = name.slice(1,name.length).toLowerCase();
+        name = firstLetter + restWord;
         playersData = playersData.filter((person) => person.name === name);
         if(playersData.length === 0) return res.status(404).json({error: `Cannot find by the name: ${name}.`});
     }
     //Search by lastname
     if(lastname){
+        firstLetter = lastname.slice(0,1).toUpperCase();
+        restWord = lastname.slice(1,lastname.length).toLowerCase();
+        lastname = firstLetter + restWord;
         playersData = playersData.filter((person) => person.lastname === lastname);
         if(playersData.length === 0) return res.status(404).json({error: `Cannot find by the lastname: ${lastname}.`});
     }
     //Searching by position
     if(position){
+        firstLetter = position.slice(0,1).toUpperCase();
+        restWord = position.slice(1,position.length).toLowerCase();
+        position = firstLetter + restWord;
         playersData = playersData.filter((person) => person.position === position);
         if(playersData.length === 0) return res.status(404).json({error: `Can't find by position: ${position}.`});
     }
